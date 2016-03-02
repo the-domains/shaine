@@ -1,6 +1,6 @@
 name: shaine
 favicon: null
-layout_spectrum: 0.653153
+layout_spectrum: 0.96225
 typography_spectrum: 1
 title: A New Life Daily
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B0B0B0'
-    - '#000000'
-    - '#808080'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0
+    - '#5d6d6c'
+    - '#93b7c7'
+    - '#778f99'
+    - '#101417'
+    - '#2e4763'
+  brandStrength: 0.25
   lightness: 0.396396
   saturation: 0.283784
   rhythmicContrast: 0.896396
