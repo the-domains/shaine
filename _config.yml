@@ -1,4 +1,20 @@
-analytics: {}
+name: shaine
+favicon: null
+layout_spectrum: 0.653153
+typography_spectrum: 1
+title: A New Life Daily
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-8089221-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B0B0B0'
@@ -8,11 +24,9 @@ color:
     - '#000000'
   brandStrength: 0
   lightness: 0.396396
-  rhythmicContrast: 0.896396
   saturation: 0.283784
-cta: {}
-layout_spectrum: 0.653153
-name: shaine
-opengraph: {}
-purpose: {}
-typography_spectrum: 1
+  rhythmicContrast: 0.896396
+purpose:
+  - name: null
+    item: null
+    url: null
