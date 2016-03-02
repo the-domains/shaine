@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B0B0B0'
+    - '#000000'
+    - '#808080'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0
+  lightness: 0.396396
+  rhythmicContrast: 0.896396
+  saturation: 0.283784
+cta: {}
+layout_spectrum: 0.653153
+name: shaine
+opengraph: {}
+purpose: {}
+typography_spectrum: 1
