@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A New Life Daily]]></title>
+        <description><![CDATA[A New Life Daily]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 16:06:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Money]]></title>
+            <description><![CDATA[<article><h1>About Money</h1><p>Over the past couple of years, I have slowly discovered what makes money so ubiquitous, yet so elusive. Money, as it turns out, is part math, part philosophy, and part skill. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3342b7be5249fefafde5d451e1cfd5a7581835aa.jpg"></article>]]></description>
+            <link>undefinedabout-money/index.html</link>
+            <guid isPermaLink="false">1d003653-e9c0-4e34-8ae7-cc958eb61d9f</guid>
+            <pubDate>Mon, 07 Mar 2016 16:06:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
