@@ -4,8 +4,15 @@
         <description><![CDATA[Shaine Mata]]></description>
         <link>http://shainemata.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 16:56:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 17:43:24 GMT</lastBuildDate>
         <atom:link href="http://shainemata.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another Test]]></title>
+            <description><![CDATA[<article><h1>Another Test</h1><p>Trying to make this work without much success. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5316ac314ae54a6304c7a4de2d3bc5089f54367f.png"></article>]]></description>
+            <link>http://shainemata.com/another-test/index.html</link>
+            <guid isPermaLink="false">2c59eda6-3e8f-42d6-a55f-ea4b2b339e5c</guid>
+            <pubDate>Mon, 07 Mar 2016 17:43:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Money]]></title>
             <description><![CDATA[<article><h1>About Money</h1><p>Over the past couple of years, I have slowly discovered what makes money so ubiquitous, yet so elusive. Money, as it turns out, is part math, part philosophy, and part skill. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3342b7be5249fefafde5d451e1cfd5a7581835aa.jpg"></article>]]></description>
