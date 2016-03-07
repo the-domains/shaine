@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Navigation and page
-datePublished: '2016-03-07T17:46:28.313Z'
-dateModified: '2016-03-07T17:43:32.233Z'
+datePublished: '2016-03-07T17:54:28.006Z'
+dateModified: '2016-03-07T17:46:36.839Z'
 title: Another Test
 author: []
 sourcePath: _posts/2016-03-07-another-test.md
