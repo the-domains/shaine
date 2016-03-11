@@ -17,8 +17,8 @@ keywords:
   - payments
   - interest
 description: 'In the past few months, I have been experimenting with self-banking. The idea is to have some money saved away, which I can borrow. After borrowing the money, I run it through a 1 year amortization, or longer. Then, I pay back the loan to my savings with interest.'
-datePublished: '2016-03-11T21:00:11.942Z'
-dateModified: '2016-03-11T21:00:03.668Z'
+datePublished: '2016-03-11T21:01:49.863Z'
+dateModified: '2016-03-11T21:01:39.419Z'
 author:
   - name: Shaine Mata
     url: 'https://plus.google.com/115480964182902200631'
@@ -26,16 +26,18 @@ author:
 related: []
 app_links: []
 title: Shaine Lee Mata
+sourcePath: _posts/2016-03-11-shaine-lee-mata.md
+published: true
 authors: []
 publisher:
   name: Shainemata
   domain: www.shainemata.net
   url: 'http://www.shainemata.net'
   favicon: 'http://www.shainemata.net/favicon.ico'
-sourcePath: _posts/2016-03-11-shaine-lee-mata.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <article style=""><h1>Shaine Lee Mata: Experiment in Self-Banking</h1><p>In the past few months, I have been experimenting with self-banking. The idea is to have some money saved away, which I can borrow. After borrowing the money, I run it through a 1 year amortization, or longer. Then, I pay back the loan to my savings with interest.</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6bba7f2-f96f-40a9-8c0d-5d4a74a41972.jpg)
