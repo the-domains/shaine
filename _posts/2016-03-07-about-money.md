@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musings about the meaning of money.
-datePublished: '2016-03-07T18:09:03.454Z'
-dateModified: '2016-03-07T17:56:45.542Z'
+datePublished: '2016-03-11T21:04:32.441Z'
+dateModified: '2016-03-07T18:09:11.797Z'
 title: About Money
 author: []
 sourcePath: _posts/2016-03-07-about-money.md
