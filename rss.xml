@@ -4,21 +4,21 @@
         <description><![CDATA[Shaine Mata]]></description>
         <link>http://shainemata.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 21:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 21:47:28 GMT</lastBuildDate>
         <atom:link href="http://shainemata.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid Beta Access: First impression]]></title>
+            <description><![CDATA[<article><h1>The Grid Beta Access: First impression</h1><p>TheGrid.io has granted me Beta access to my account. You can see the account over at ShaineMata.com if you like. If you have never heard of The Grid, they are working to build a self-designing website that uses artificial intelligence. The idea is brilliant. I like the concept.</p><img src="https://4.bp.blogspot.com/-HFug-bopHsg/VuMzeVbGuOI/AAAAAAABSPs/rSPIroXt4FYWbynY0C5jii7gXqy8O9OLA/w1200-h630-p-nu/Screenshot%2B2016-03-11%2Bat%2B15.05.14.png"></article>]]></description>
+            <link>http://www.shainemata.net/2016/03/the-grid-beta-access-first-impression.html</link>
+            <guid isPermaLink="false">160e73f1-94d8-4aba-9398-f3b206799c3d</guid>
+            <pubDate>Fri, 11 Mar 2016 21:46:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shaine Lee Mata]]></title>
             <description><![CDATA[<article><h1>Shaine Lee Mata</h1><p>In the past few months, I have been experimenting with self-banking. The idea is to have some money saved away, which I can borrow. After borrowing the money, I run it through a 1 year amortization, or longer. Then, I pay back the loan to my savings with interest.</p></article>]]></description>
             <link>http://www.shainemata.net/2016/01/experiment-in-self-banking.html</link>
             <guid isPermaLink="false">f16a21ba-5eb0-4b80-b47c-d76af644a3f2</guid>
             <pubDate>Fri, 11 Mar 2016 21:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Money]]></title>
-            <description><![CDATA[<article><h1>About Money</h1><p>Over the past couple of years, I have slowly discovered what makes money so ubiquitous, yet so elusive. Money, as it turns out, is part math, part philosophy, and part skill. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3342b7be5249fefafde5d451e1cfd5a7581835aa.jpg"></article>]]></description>
-            <link>http://shainemata.com/about-money/index.html</link>
-            <guid isPermaLink="false">1d003653-e9c0-4e34-8ae7-cc958eb61d9f</guid>
-            <pubDate>Fri, 11 Mar 2016 21:04:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
