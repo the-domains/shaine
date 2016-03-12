@@ -17,8 +17,8 @@ keywords:
   - harp
   - account
 description: 'TheGrid.io has granted me Beta access to my account. You can see the account over at ShaineMata.com if you like. If you have never heard of The Grid, they are working to build a self-designing website that uses artificial intelligence. The idea is brilliant. I like the concept.'
-datePublished: '2016-03-12T18:59:52.279Z'
-dateModified: '2016-03-12T18:57:56.621Z'
+datePublished: '2016-03-12T19:45:08.184Z'
+dateModified: '2016-03-12T19:00:00.014Z'
 author:
   - name: Shaine Mata
     url: 'https://plus.google.com/115480964182902200631'
