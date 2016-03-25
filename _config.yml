@@ -1,6 +1,6 @@
 name: shaine
 favicon: null
-layout_spectrum: 0.83846
+layout_spectrum: 0.74364
 typography_spectrum: 0.29939
 title: Shaine Mata
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9a9da2'
     - '#6e1a2a'
     - '#64676c'
-  brandStrength: 0.5
-  lightness: 0.625
+  brandStrength: 0.1875
+  lightness: 0.125
   saturation: 0.5
   rhythmicContrast: 1
 purpose:
