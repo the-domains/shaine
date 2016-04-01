@@ -17,8 +17,8 @@ keywords:
   - tag
   - invoice
 description: 'I am crushing on my +Simple account now that I am gathering my expenses for tax purposes. While Simple is not so useful this year, due to limited use in 2015, it is going to be awesome next year.'
-datePublished: '2016-04-01T20:35:03.988Z'
-dateModified: '2016-04-01T20:34:12.313Z'
+datePublished: '2016-04-01T20:46:50.775Z'
+dateModified: '2016-04-01T20:42:01.362Z'
 author:
   - name: Shaine Mata
     url: 'https://plus.google.com/115480964182902200631'
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Shaine Lee Mata</h1><p>I am crushing on my +Simple account now that I am gathering my expenses for tax purposes. While Simple is not so useful this year, due to limited use in 2015, it is going to be awesome next year.</p><img src="https://3.bp.blogspot.com/-6vmOBl8tT_E/Vv7PWems6uI/AAAAAAABSVY/blCUZANyGeES-LvGEuSjaR1B4blar0hTQ/w1200-h630-p-nu/Screenshot%2B2016-04-01%2Bat%2B14.41.43.png" /></article>
+<article style=""><h1>Simple.com Tax Preparation Lovefest</h1><p>I am crushing on my +Simple account now that I am gathering my expenses for tax purposes. While Simple is not so useful this year, due to limited use in 2015, it is going to be awesome next year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e21e2d203d9a298596b6ae417ee75b51d3f56b34.png" /></article>
