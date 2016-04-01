@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.shainemata.net/2016/04/simplecom-tax-preparation-lovefest.html'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - transaction
   - simple
@@ -17,8 +17,8 @@ keywords:
   - tag
   - invoice
 description: 'I am crushing on my +Simple account now that I am gathering my expenses for tax purposes. While Simple is not so useful this year, due to limited use in 2015, it is going to be awesome next year.'
-datePublished: '2016-04-01T20:33:34.423Z'
-dateModified: '2016-04-01T20:33:33.998Z'
+datePublished: '2016-04-01T20:35:03.988Z'
+dateModified: '2016-04-01T20:34:12.313Z'
 author:
   - name: Shaine Mata
     url: 'https://plus.google.com/115480964182902200631'
