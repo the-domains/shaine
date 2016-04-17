@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T13:42:55.902Z'
-dateModified: '2016-04-17T13:42:04.212Z'
+datePublished: '2016-04-17T13:49:46.199Z'
+dateModified: '2016-04-17T13:49:37.410Z'
 title: About Shaine Mata
 author: []
 sourcePath: _posts/2016-04-17-about-shaine-mata.md
