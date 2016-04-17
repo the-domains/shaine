@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T13:38:39.743Z'
-dateModified: '2016-04-17T13:38:05.764Z'
+datePublished: '2016-04-17T13:40:42.895Z'
+dateModified: '2016-04-17T13:38:47.983Z'
 title: About Shaine Mata
 author: []
+sourcePath: _posts/2016-04-17-about-shaine-mata.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-about-shaine-mata.md
-published: true
 url: about-shaine-mata/index.html
 _type: WebPage
 
