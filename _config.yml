@@ -19,13 +19,17 @@ analytics:
   google: UA-8089221-1
   facebook: null
   twitter: null
+author:
+  name: Shaine Mata
+  email: shaine@shainemata.com
+  url: 'http://www.shainemata.com'
 name: shaine
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
-title: Shaine Mata
+title: Shaine Mata - tagline
 description: Mystic Geek
 purpose:
   - name: null
