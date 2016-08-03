@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    id: cb9af48e-2762-485a-9dc2-170512b679c2
+    type: content
 favicon: null
 title: Shaine Mata
 description: Mystic Geek
