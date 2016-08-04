@@ -1,4 +1,29 @@
-typography_spectrum: 0.29939
+name: shaine
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.65189
+author:
+  name: Shaine Mata
+  email: shaine@shainemata.com
+  url: 'http://www.shainemata.com'
+navigation:
+  - name: About
+    id: cb9af48e-2762-485a-9dc2-170512b679c2
+    type: content
+title: Shaine Mata
+description: Mystic Geek
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-8089221-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#310911'
@@ -10,31 +35,6 @@ color:
   lightness: 0.125
   saturation: 0.5
   rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.74364
-analytics:
-  google: UA-8089221-1
-  facebook: null
-  twitter: null
-author:
-  name: Shaine Mata
-  email: shaine@shainemata.com
-  url: 'http://www.shainemata.com'
-name: shaine
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: About
-    id: cb9af48e-2762-485a-9dc2-170512b679c2
-    type: content
-favicon: null
-title: Shaine Mata
-description: Mystic Geek
 purpose:
   - name: null
     item: null
