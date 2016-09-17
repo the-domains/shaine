@@ -1,20 +1,21 @@
-layout_spectrum: 0.5419630615506321
-typography_spectrum: 0.7621489418670535
+typography_spectrum: 0.14749346720054746
 color:
   brandColors:
-    - '#310911'
-    - '#d7dfe1'
-    - '#9a9da2'
-    - '#6e1a2a'
-    - '#64676c'
-  brandStrength: 0
-  lightness: 0.1875
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  brandStrength: 0.4376137056387961
+  lightness: 0.09138701972551644
+  saturation: 0.7899282602593303
+  rhythmicContrast: 0.22850597486831248
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6058327085338533
 analytics:
   google: UA-8089221-1
   facebook: null
@@ -22,13 +23,16 @@ analytics:
 author:
   name: Shaine Mata
   email: shaine@shainemata.com
-  url: ''
-name: shaine
+  url: 'http://www.shainemata.com'
+name: Shaine Mata
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
+  - name: Home
+    url: 'http://www.shainemata.com'
+    type: external
   - name: About
     id: cb9af48e-2762-485a-9dc2-170512b679c2
     type: content
