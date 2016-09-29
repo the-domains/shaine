@@ -4,9 +4,16 @@
         <description><![CDATA[Shaine Mata]]></description>
         <link>http://shainemata.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Sep 2016 04:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2016 22:32:31 GMT</lastBuildDate>
         <atom:link href="http://shainemata.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Sep 2016 04:30:08 GMT</pubDate>
+        <pubDate>Thu, 29 Sep 2016 22:32:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[Behold! Jicama Threatens Thee]]></title>
+            <description><![CDATA[<article><h1>Behold! Jicama Threatens Thee</h1><p>My latest misadventure involves jicama, a perishable food item that resembles a turnip. I can't make out whether it's a bean or a vine from the Wiki entry. It's definitely a root. But, other sources online categorize jicama as a sort of morning glory or nightshade.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/96ccfc8f87c12d4648f53e135440997c/noop.jpg?input=https%3A%2F%2F4.bp.blogspot.com%2F-tUGAac7f6eA%2FV-2FEtVlJmI%2FAAAAAAABVYs%2FG2vgzquY8RA-G9bgS9bQ3H-PXe3ZjJ4CgCLcB%2Fw1200-h630-p-nu%2FIMG_20160929_161041.jpg"></article>]]></description>
+            <link>http://www.shainemata.net/2016/09/behold-jicama-threatens-thee.html</link>
+            <guid isPermaLink="false">2bde429e-e0ff-4ec6-b30f-0e3f9b6e64ac</guid>
+            <pubDate>Thu, 29 Sep 2016 22:31:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Summer At CEED: Groundwork for Something Great]]></title>
             <description><![CDATA[<article><h1>My Summer At CEED: Groundwork for Something Great</h1><p>This Summer, which I realize is still ongoing here in Mission with our subtropical weather, I spent my days at the new Center for Education and Economic Development. It is otherwise known as CEED. I have not asked if the name is a play on words.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/83510563b99e7539fe152b32c35b4e72/noop.jpg?input=https%3A%2F%2F4.bp.blogspot.com%2F-hSAEQFLpVcs%2FV-yHzT7WVtI%2FAAAAAAABVXo%2FcDaImpqp5a0WHGxnvz2LWDDU8Q39ke0ggCLcB%2Fw1200-h630-p-nu%2FIMG_20160908_093522.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/shared?ci=-33nFei7aFM</link>
             <guid isPermaLink="false">37f335df-def1-4914-81bd-0fcabf96c2a0</guid>
             <pubDate>Mon, 05 Sep 2016 02:35:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winding Down]]></title>
-            <description><![CDATA[<article><h1>Winding Down</h1><p>After many weeks, many days, many hours, our project is near its end. Baptism by fire is a good education, although probably not the ideal education.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62e95281-0925-4644-b480-8f3567b65069.jpg"></article>]]></description>
-            <link>http://shainemata.com/winding-down/index.html</link>
-            <guid isPermaLink="false">ab5040f8-2d89-43c3-908f-88b592d36587</guid>
-            <pubDate>Sun, 04 Sep 2016 22:10:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
