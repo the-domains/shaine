@@ -48,6 +48,9 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/shainemata'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/shaine'
+    type: external
 favicon: null
 title: Shaine Mata
 description: Seeking Freedom
