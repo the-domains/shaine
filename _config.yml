@@ -42,6 +42,9 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Shaine.Lee.Mata/'
     type: external
+  - name: G+
+    url: 'https://plus.google.com/u/0/+ShaineMata'
+    type: external
 favicon: null
 title: Shaine Mata
 description: Seeking Freedom
