@@ -39,9 +39,6 @@ navigation:
   - name: Contact
     id: bbcf56ef-66a8-4c5f-a5bf-da2f61131422
     type: content
-  - name: Facebook
-    url: 'https://www.facebook.com/Shaine.Lee.Mata/'
-    type: external
   - name: Twitter
     url: 'https://twitter.com/shaine'
     type: external
@@ -50,6 +47,9 @@ navigation:
     type: external
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/shainemata'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/Shaine.Lee.Mata/'
     type: external
 favicon: null
 title: Shaine Mata
