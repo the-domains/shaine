@@ -30,9 +30,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Home
-    url: 'http://www.shainemata.com'
-    type: external
   - name: About
     id: cb9af48e-2762-485a-9dc2-170512b679c2
     type: content
