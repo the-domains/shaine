@@ -45,6 +45,9 @@ navigation:
   - name: G+
     url: 'https://plus.google.com/u/0/+ShaineMata'
     type: external
+  - name: 'https://twitter.com/shaine'
+    url: Twitter
+    type: external
 favicon: null
 title: Shaine Mata
 description: Seeking Freedom
