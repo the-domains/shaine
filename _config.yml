@@ -42,14 +42,14 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Shaine.Lee.Mata/'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/shaine'
+    type: external
   - name: G+
     url: 'https://plus.google.com/u/0/+ShaineMata'
     type: external
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/shainemata'
-    type: external
-  - name: Twitter
-    url: 'https://twitter.com/shaine'
     type: external
 favicon: null
 title: Shaine Mata
