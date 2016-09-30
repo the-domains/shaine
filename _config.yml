@@ -1,4 +1,3 @@
-layout_spectrum: 0.09703210578300059
 typography_spectrum: 0.5618014284409583
 color:
   brandColors:
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.09703210578300059
 analytics:
   google: UA-8089221-1
   facebook: null
@@ -39,6 +39,9 @@ navigation:
   - name: Contact
     id: bbcf56ef-66a8-4c5f-a5bf-da2f61131422
     type: content
+  - name: Facebook
+    url: 'https://www.facebook.com/Shaine.Lee.Mata/'
+    type: external
 favicon: null
 title: Shaine Mata
 description: Seeking Freedom
