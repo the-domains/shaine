@@ -4,9 +4,16 @@
         <description><![CDATA[Shaine Mata]]></description>
         <link>http://shainemata.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Oct 2016 17:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2016 20:09:46 GMT</lastBuildDate>
         <atom:link href="http://shainemata.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Oct 2016 17:34:43 GMT</pubDate>
+        <pubDate>Wed, 05 Oct 2016 20:09:31 GMT</pubDate>
+        <item>
+            <title><![CDATA[slow-watches.com]]></title>
+            <description><![CDATA[<article><h1>slow-watches.com</h1><p>Can a watch change your life? slow: The 24 hour one hand watch. slow is not a speed, it's a mindset that most of us somehow lost. Let's make time to bring slow back into our lives.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3cef07c9bf63ec5a83ebbbf807560d9e/noop.jpg?input=http%3A%2F%2Fwww.slow-watches.com%2Fmedia%2Fwysiwyg%2FOpenGraph%2Fslow_SWISS_MADE_4.jpg"></article>]]></description>
+            <link>https://www.slow-watches.com/</link>
+            <guid isPermaLink="false">ecdafd5b-1b63-443f-9871-e22d7534baa6</guid>
+            <pubDate>Wed, 05 Oct 2016 20:09:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New website: ComputerRepairMissionTX.com]]></title>
             <description><![CDATA[<article><h1>New website: ComputerRepairMissionTX.com</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8eeb3620-3251-4f0f-86be-3aa9ea47b58c.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.shainemata.net/2016/09/bringing-dead-blogs-back-to-life.html</link>
             <guid isPermaLink="false">dcd0d25a-5fc5-4a90-a156-49f0ae08a4d0</guid>
             <pubDate>Wed, 07 Sep 2016 02:26:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glacial Financial Growth of my Plan]]></title>
-            <description><![CDATA[<article><h1>Glacial Financial Growth of my Plan</h1><p>My financial experiments have so far proven more or less workable, although rather slow. In fact, circumstances have led to diminished cash reserves, to the point where I am slightly nervous. I've had some big draws on my reserves that in times past would have been impossible to pay.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/386b5c716ec48106de80874ae68283b1/noop.jpg?input=https%3A%2F%2F1.bp.blogspot.com%2F-cnXPMwDC_cs%2FV82NUT94NJI%2FAAAAAAABUKI%2FD4UHknfAR_AoWIHdMQqTlZ1PgpZ_QWx-QCLcB%2Fw1200-h630-p-nu%2FIMG_20160905_092539.jpg"></article>]]></description>
-            <link>http://www.shainemata.net/2016/09/glacial-financial-growth-of-my-plan.html</link>
-            <guid isPermaLink="false">1f848e6b-e25b-440b-8e63-c4727d7156ca</guid>
-            <pubDate>Wed, 07 Sep 2016 01:17:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
