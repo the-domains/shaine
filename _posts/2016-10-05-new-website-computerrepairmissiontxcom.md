@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-05T17:34:36.053Z'
+datePublished: '2016-10-05T17:34:42.735Z'
 sourcePath: _posts/2016-10-05-new-website-computerrepairmissiontxcom.md
 inFeed: true
 hasPage: true
 author:
   - name: Shaine Mata
 via: {}
-dateModified: '2016-10-05T17:34:20.336Z'
+dateModified: '2016-10-05T17:34:40.029Z'
 title: 'New website: ComputerRepairMissionTX.com'
 publisher: {}
 description: ''
