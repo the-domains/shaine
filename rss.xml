@@ -4,9 +4,16 @@
         <description><![CDATA[Shaine Mata]]></description>
         <link>http://shainemata.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Oct 2016 21:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2016 00:31:58 GMT</lastBuildDate>
         <atom:link href="http://shainemata.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Oct 2016 21:34:33 GMT</pubDate>
+        <pubDate>Thu, 06 Oct 2016 00:31:57 GMT</pubDate>
+        <item>
+            <title><![CDATA[Shaine Lee Mata: Experiment in Self-Banking]]></title>
+            <description><![CDATA[<article><h1>Shaine Lee Mata: Experiment in Self-Banking</h1><p>In the past few months, I have been experimenting with self-banking. The idea is to have some money saved away, which I can borrow. After borrowing the money, I run it through a 1 year amortization, or longer. Then, I pay back the loan to my savings with interest.</p></article>]]></description>
+            <link>http://www.shainemata.net/2016/01/experiment-in-self-banking.html</link>
+            <guid isPermaLink="false">f16a21ba-5eb0-4b80-b47c-d76af644a3f2</guid>
+            <pubDate>Thu, 06 Oct 2016 00:31:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Slow Watches For Mindfulness?]]></title>
             <description><![CDATA[<article><h1>Slow Watches For Mindfulness?</h1><p>Can a watch change your life? slow: The 24 hour one hand watch. slow is not a speed, it's a mindset that most of us somehow lost. Let's make time to bring slow back into our lives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47df29614469805dbf4e5e408e2ed6c1320be842.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/fCn8zs912OE</link>
             <guid isPermaLink="false">b2762bc9-d6eb-4e9f-a9f5-a329c5078e92</guid>
             <pubDate>Sat, 17 Sep 2016 22:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bringing Dead Blogs Back To Life]]></title>
-            <description><![CDATA[<article><h1>Bringing Dead Blogs Back To Life</h1><p>I have been considering the resurrection of RGV Life and MissionTexas.net recently. These blogs continue to generate a little bit of advertising revenue from Google Adsense every few months despite sitting around without updates. I don't feel any guilt or remorse about leaving the blogs fallow.</p></article>]]></description>
-            <link>http://www.shainemata.net/2016/09/bringing-dead-blogs-back-to-life.html</link>
-            <guid isPermaLink="false">dcd0d25a-5fc5-4a90-a156-49f0ae08a4d0</guid>
-            <pubDate>Wed, 07 Sep 2016 02:26:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
