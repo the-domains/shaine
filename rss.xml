@@ -4,9 +4,16 @@
         <description><![CDATA[Shaine Mata]]></description>
         <link>http://shainemata.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 06 Oct 2016 00:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2016 22:33:13 GMT</lastBuildDate>
         <atom:link href="http://shainemata.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Oct 2016 00:31:57 GMT</pubDate>
+        <pubDate>Tue, 11 Oct 2016 22:32:15 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Freedom requires purpose.</blockquote>]]></description>
+            <link>https://twitter.com/shaine/status/785969325500801024</link>
+            <guid isPermaLink="false">c82fbc79-7c74-4439-86ec-859ab2035e9c</guid>
+            <pubDate>Tue, 11 Oct 2016 22:32:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shaine Lee Mata: Experiment in Self-Banking]]></title>
             <description><![CDATA[<article><h1>Shaine Lee Mata: Experiment in Self-Banking</h1><p>In the past few months, I have been experimenting with self-banking. The idea is to have some money saved away, which I can borrow. After borrowing the money, I run it through a 1 year amortization, or longer. Then, I pay back the loan to my savings with interest.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.shainemata.net/2016/09/the-new-amazon-echo-dot-one-step-closer.html</link>
             <guid isPermaLink="false">09b8b476-13fc-4279-8592-9d174d9b82d2</guid>
             <pubDate>Tue, 20 Sep 2016 20:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Zipf Mystery]]></title>
-            <description><![CDATA[<article><h1>The Zipf Mystery</h1><p>The of and to. A in is I. That it, for you, was with on. As have ... but be they. RELATED LINKS AND SOURCES BELOW! http://www.twitter.com/tweetsauce http://www.instagram.com/electricpants ...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/27af9ec0341ef6970aa8271cb55194f3/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FfCn8zs912OE%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/fCn8zs912OE</link>
-            <guid isPermaLink="false">b2762bc9-d6eb-4e9f-a9f5-a329c5078e92</guid>
-            <pubDate>Sat, 17 Sep 2016 22:38:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
