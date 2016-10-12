@@ -4,9 +4,16 @@
         <description><![CDATA[Shaine Mata]]></description>
         <link>http://shainemata.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Oct 2016 22:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2016 00:36:23 GMT</lastBuildDate>
         <atom:link href="http://shainemata.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Oct 2016 22:32:15 GMT</pubDate>
+        <pubDate>Wed, 12 Oct 2016 00:36:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Trouble With Freedom]]></title>
+            <description><![CDATA[<article><h1>The Trouble With Freedom</h1><p>The theme for this period in my life is “Seeking Freedom”. Instinctively, I know that this is something I want. Cognitively, I do not fully grasp what that means. Being Free is turning out to be a great more difficult than I thought. The problem is choosing one of many paths.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12a60ecb-4e11-4366-9ea6-9c113992ca11.jpg"></article>]]></description>
+            <link>http://shainemata.com/the-trouble-with-freedom/index.html</link>
+            <guid isPermaLink="false">e8e35273-1149-4e94-a582-a9cd91559534</guid>
+            <pubDate>Wed, 12 Oct 2016 00:36:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Freedom requires purpose.</blockquote>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.smh.com.au/lifestyle/health-and-wellbeing/the-100-per-cent-rule-the-simple-advice-that-changed-my-life-20160825-gr16da.html</link>
             <guid isPermaLink="false">493d2958-6d52-4a00-ae70-42cb5e37c49a</guid>
             <pubDate>Fri, 23 Sep 2016 01:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Amazon Echo Dot: One step closer to ubiquitous voice control]]></title>
-            <description><![CDATA[<article><h1>The New Amazon Echo Dot: One step closer to ubiquitous voice control</h1><p>One thing I love about Star Trek, most of the different series, is the ability to issue voice commands to the ship's computer. The crew is able to use the computer's voice recognition anywhere they go. Amazon has introduced a new and improved Amazon Echo Dot, which is a smaller, stripped down version of the Amazon Echo.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b6c3125b6965a00236da3cbf95b5246d/noop.jpg?input=https%3A%2F%2F4.bp.blogspot.com%2F-MJWF0u4BVaA%2FV-GXTDxKJaI%2FAAAAAAABVUQ%2F7RspMaFHDhEr0NhTIbOimBNZM0eXwvnEgCLcB%2Fw1200-h630-p-nu%2Fechotap.jpg"></article>]]></description>
-            <link>http://www.shainemata.net/2016/09/the-new-amazon-echo-dot-one-step-closer.html</link>
-            <guid isPermaLink="false">09b8b476-13fc-4279-8592-9d174d9b82d2</guid>
-            <pubDate>Tue, 20 Sep 2016 20:21:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
