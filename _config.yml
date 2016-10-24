@@ -50,5 +50,9 @@ navigation:
     type: external
 favicon: null
 title: Shaine Mata
+content: []
 description: Seeking Freedom
-purpose: []
+purpose:
+  - type: external
+    url: 'http://eepurl.com/clvz-P'
+    label: Subscribe
