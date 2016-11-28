@@ -49,4 +49,7 @@ favicon: null
 title: Shaine Mata
 content: []
 description: Seeking Freedom
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:19562050706'
+    label: Call Me
