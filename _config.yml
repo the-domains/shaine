@@ -45,6 +45,9 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Shaine.Lee.Mata/'
     type: external
+  - name: FIRE Blog Gallery
+    url: 'http://fireblog.gallery'
+    type: external
 favicon: null
 title: Shaine Mata
 content: []
