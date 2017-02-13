@@ -33,9 +33,6 @@ navigation:
   - name: About
     id: cb9af48e-2762-485a-9dc2-170512b679c2
     type: content
-  - name: G+
-    url: 'https://plus.google.com/u/0/+ShaineMata'
-    type: external
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/shainemata'
     type: external
