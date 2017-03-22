@@ -1,4 +1,3 @@
-layout_spectrum: 0.13430611430639677
 typography_spectrum: 0.5680525753051412
 color:
   brandColors:
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.13430611430639677
 analytics:
   google: UA-8089221-1
   facebook: null
@@ -36,6 +36,9 @@ navigation:
   - name: FIRE Blog Gallery
     url: 'http://fireblog.gallery'
     type: external
+  - name: 'Mission, Texas Guide'
+    url: 'http://missiontexas.net'
+    type: external
 favicon: null
 title: Shaine Mata
 content:
@@ -47,20 +50,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/d39c682d-1018-457d-9cfa-a781410b01a5.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
