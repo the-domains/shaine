@@ -4,9 +4,16 @@
         <description><![CDATA[Shaine Mata]]></description>
         <link>http://shainemata.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Mar 2017 21:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2017 19:24:53 GMT</lastBuildDate>
         <atom:link href="http://shainemata.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Mar 2017 21:42:04 GMT</pubDate>
+        <pubDate>Wed, 05 Apr 2017 19:24:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[New Ventures]]></title>
+            <description><![CDATA[<h1>New Ventures</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9kE2OwjAMhfc9RSb7NCUlQEXLgotEnjRKgtqmwuHv9hg6mgUjjVeW32f72S3ac5wzy4_ZdTy7e5YnuMJS5YeCUfiU_OAM9MYO0U2ZdYxbEPPlW-xUXVWN0o3eVNtmq_n-owOH9ObrXb2uVnq9UX-QW-xzIIYmfUrBRR9e_UqT1srF1qFov4RgGCBOboQMZqTMHIfkV4am3Ik2gEwIIv-9r8Cz7biUM3gHvSqXzfiY-mghxzSVNo0_qsSQbmQKyxPSY37NPAHSw2bE" height="244"></iframe>,<p>Trying out google adsense on The Grid.</p>]]></description>
+            <link>http://shainemata.com/new-ventures/index.html</link>
+            <guid isPermaLink="false">473edeff-1ffa-4ea8-acc6-6f1affce349c</guid>
+            <pubDate>Wed, 05 Apr 2017 19:24:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digital Dissatisfaction]]></title>
             <description><![CDATA[<h1>Digital Dissatisfaction</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f25ab79-bf07-4ad1-9879-a73e57e69798.jpg">,<p>The struggle with the digital lifestyle continues. I have long been an advocate of using technology to improve one’s lifestyle, improve collaboration, and to keep things more or less organized. In most cases, I am a walking solution looking for problems that lack technology.</p>,<p>Yet, I find myself at odds with technology when it comes to making significant strides in my personal and professional goals. I have always required some degree of deep concentration and time to process all that must be juggled. Lately, however, the need is becoming more pronounced.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://shainemata.com/launching-fire-blog-gallery/index.html</link>
             <guid isPermaLink="false">6324b17c-31a0-46df-ac48-075de3f6aef9</guid>
             <pubDate>Mon, 28 Nov 2016 14:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First Run In Vibram Five Fingers]]></title>
-            <description><![CDATA[<h1>First Run In Vibram Five Fingers</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73fc36b6-fa75-492a-be90-5943d6f93fdd.jpg">,<p>Tonight, I had my first run in Vibram Five Finger shoes. It was more of a series of short jogs. The park I frequent is one square block. I ran one side, walked the next, ran, and walked. This went on for thirty minutes.</p>]]></description>
-            <link>http://shainemata.com/first-run-in-vibram-five-fingers/index.html</link>
-            <guid isPermaLink="false">d558cfd9-67da-4f01-aa7e-e7e8114dabfe</guid>
-            <pubDate>Mon, 28 Nov 2016 05:12:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
