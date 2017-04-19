@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   This is an old gasoline pump that was out in the middle of a field. Everything
   surrounding it was torn down. 
-dateModified: '2017-04-19T14:16:28.810Z'
-datePublished: '2017-04-19T14:16:29.569Z'
+dateModified: '2017-04-19T14:23:02.083Z'
+datePublished: '2017-04-19T14:23:02.596Z'
 title: Like Trying to Pick a Favorite Child
 author: []
 publisher: {}
@@ -23,10 +23,10 @@ _type: Article
 ![My son and I drove up to Superior, Wisconsin. Once there, we visited the lighthouse at Wisconsin Point.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4da0e4b-ac9c-49a9-bc79-2e95d7655958.jpg)
 ![An old tree near my home that died after the building next to it burned down. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49485ff2-8523-45fa-8ec8-61d997d19f61.jpg)
 ![Bishop Daniel Flores blessing the land where a new church will be built. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e772d6c5-b95d-4ac4-be55-ef84204ea8b8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/502f8e5a-42d9-4db1-be25-b7929d276f86.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/355437aa-24e3-4365-b50e-5f6af57fee4f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6d30adc-e02f-403e-b3ce-80c16a86f7ab.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f627b60-5d77-4ee2-a81e-b68015a559f6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2591b2cc-81e7-4535-9eeb-de0971a591d7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/820183fc-bf8d-48f1-ae73-0d0ddef9054a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed0e1ed1-ac47-45c0-8682-76ac45656ebe.jpg)
+![My children riding their bikes at Oblate Park.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/502f8e5a-42d9-4db1-be25-b7929d276f86.jpg)
+![I took this photo of a downpour one afternoon. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/355437aa-24e3-4365-b50e-5f6af57fee4f.jpg)
+![I spotted this mushroom in the light at Oblate Park. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6d30adc-e02f-403e-b3ce-80c16a86f7ab.jpg)
+![Trenton View Plaza. I took this with a medium format toy camera. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f627b60-5d77-4ee2-a81e-b68015a559f6.jpg)
+![Symmetry on Expressway 83](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2591b2cc-81e7-4535-9eeb-de0971a591d7.jpg)
+![Pedestrian bridge in San Antonio, Texas](https://the-grid-user-content.s3-us-west-2.amazonaws.com/820183fc-bf8d-48f1-ae73-0d0ddef9054a.jpg)
+![Sunday morning street in downtown Mission, Texas](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed0e1ed1-ac47-45c0-8682-76ac45656ebe.jpg)
