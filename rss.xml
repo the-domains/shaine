@@ -4,15 +4,22 @@
         <description><![CDATA[Shaine Mata]]></description>
         <link>http://shainemata.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Apr 2018 05:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Apr 2018 05:25:07 GMT</lastBuildDate>
         <atom:link href="http://shainemata.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Apr 2018 05:24:27 GMT</pubDate>
+        <pubDate>Tue, 17 Apr 2018 05:25:05 GMT</pubDate>
         <item>
             <title><![CDATA[Stuck in a Loop]]></title>
             <description><![CDATA[<h1>Stuck in a Loop</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d0a2e54-d5f8-4340-a1c8-0b0acb839849.jpg">,<p>One of the most annoying things in life is to be stuck in a loop. This used to be called being stuck in a rut. I disagree with the description. You create a rut from walking or driving the same path over and over. Despite the negative association, a rut is the result of purpose.</p>]]></description>
             <link>http://shainemata.com/stuck-in-a-loop/index.html</link>
             <guid isPermaLink="false">0207c48d-3f16-4cbb-98eb-22bb2b763d54</guid>
             <pubDate>Thu, 20 Jul 2017 01:08:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2018-04-06 - vlog]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fw2teE1u3nWg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw2teE1u3nWg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fw2teE1u3nWg%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=w2teE1u3nWg&amp;feature=share</link>
+            <guid isPermaLink="false">9b68acdf-bbdd-4d1e-b90d-7565429bd139</guid>
+            <pubDate>Tue, 17 Apr 2018 05:25:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I am posting again]]></title>
@@ -69,13 +76,6 @@
             <link>http://shainemata.com/phone-booths-without-phones/index.html</link>
             <guid isPermaLink="false">de884207-0232-46ba-a789-6f1d44d58442</guid>
             <pubDate>Thu, 26 Jan 2017 12:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geeking Out On ULINE]]></title>
-            <description><![CDATA[<h1>Geeking Out On ULINE</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/721c224c-0b6c-4f6f-b7de-9e30600f4897.jpg">,<p>I just received the ULINE catalog. I find myself more excited than I should be. I think facility management is starting to grow on me.</p>]]></description>
-            <link>http://shainemata.com/geeking-out-on-uline/index.html</link>
-            <guid isPermaLink="false">00a74b0e-bc03-4427-97b7-4cd3a1ee9cc4</guid>
-            <pubDate>Tue, 03 Jan 2017 19:38:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
