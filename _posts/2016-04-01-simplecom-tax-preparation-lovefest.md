@@ -18,8 +18,8 @@ description: >-
   I am crushing on my +Simple account now that I am gathering my expenses for
   tax purposes. While Simple is not so useful this year, due to limited use in
   2015, it is going to be awesome next year.
-datePublished: '2018-04-27T18:42:56.539Z'
-dateModified: '2018-04-27T18:42:56.102Z'
+datePublished: '2018-04-27T18:44:43.776Z'
+dateModified: '2018-04-27T18:44:43.265Z'
 author:
   - name: Shaine Mata
     url: 'https://plus.google.com/115480964182902200631'
