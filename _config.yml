@@ -36,6 +36,9 @@ navigation:
   - name: 'Mission, Texas Guide'
     url: 'http://missiontexas.net'
     type: external
+  - name: Travel.Write.Money
+    url: 'http://travel.write.money'
+    type: external
 favicon: null
 title: Shaine Mata
 content: []
