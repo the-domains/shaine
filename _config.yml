@@ -39,6 +39,9 @@ navigation:
   - name: Travel.Write.Money
     url: 'http://travel.write.money'
     type: external
+  - name: Keralum Media
+    url: 'http://www.keralum.com'
+    type: external
 favicon: null
 title: Shaine Mata
 content: []
