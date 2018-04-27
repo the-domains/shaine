@@ -33,9 +33,6 @@ navigation:
   - name: About
     id: cb9af48e-2762-485a-9dc2-170512b679c2
     type: content
-  - name: FIRE Blog Gallery
-    url: 'http://fireblog.gallery'
-    type: external
   - name: 'Mission, Texas Guide'
     url: 'http://missiontexas.net'
     type: external
