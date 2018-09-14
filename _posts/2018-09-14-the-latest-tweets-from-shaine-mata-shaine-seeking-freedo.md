@@ -4,9 +4,9 @@ author:
     url: 'http://twitter.com/shaine'
     avatar:
       src: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c1260263cbf6789f2f4496e48ece8eb4/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F925350867535925248%2FZbn-UOu9_400x400.jpg
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/6773a8ed7f842be0ed76427eb433fc1f05d0317a.jpg
       original: >-
-        https://pbs.twimg.com/profile_images/925350867535925248/Zbn-UOu9_400x400.jpg
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c1260263cbf6789f2f4496e48ece8eb4/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F925350867535925248%2FZbn-UOu9_400x400.jpg
       width: 400
       height: 400
       colors:
@@ -50,14 +50,14 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/shaine'
-datePublished: '2018-09-14T15:57:32.333Z'
-dateModified: '2018-09-14T15:57:25.498Z'
-datePublishedOriginal: '2018-09-14T15:57:32.333Z'
+datePublished: '2018-09-14T15:58:19.594Z'
+dateModified: '2018-09-14T15:58:19.205Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-09-14-the-latest-tweets-from-shaine-mata-shaine-seeking-freedo.md
+starred: false
+datePublishedOriginal: '2018-09-14T15:57:32.333Z'
 _type: Comment
 _context: 'http://schema.org'
 
