@@ -34,13 +34,13 @@ app_links:
     app_name: Minds
 isBasedOnUrl: 'https://www.minds.com/shaine'
 title: shaine | Minds
-datePublished: '2018-09-14T15:51:21.971Z'
-dateModified: '2018-09-14T15:51:20.579Z'
-datePublishedOriginal: '2018-09-14T15:51:21.971Z'
+datePublished: '2018-09-14T15:58:19.597Z'
+dateModified: '2018-09-14T15:58:19.205Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-09-14-shaine-or-minds.md
+starred: false
+datePublishedOriginal: '2018-09-14T15:51:21.971Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
