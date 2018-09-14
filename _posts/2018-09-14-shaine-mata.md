@@ -4,9 +4,9 @@ author:
     url: 'http://www.youtube.com/user/shainelee'
     avatar:
       src: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ca8a641faeef2068c9d70b6b93b753e4/noop?input=https%3A%2F%2Fyt3.ggpht.com%2Fa-%2FAN66SAyad-SFj8fWidzNxRij_NP_fhX8BXp59eUc0g%3Ds900-mo-c-c0xffffffff-rj-k-no
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2733cc07e6d6ae5371a5b8a55e992113b481fd6
       original: >-
-        https://yt3.ggpht.com/a-/AN66SAyad-SFj8fWidzNxRij_NP_fhX8BXp59eUc0g=s900-mo-c-c0xffffffff-rj-k-no
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ca8a641faeef2068c9d70b6b93b753e4/noop?input=https%3A%2F%2Fyt3.ggpht.com%2Fa-%2FAN66SAyad-SFj8fWidzNxRij_NP_fhX8BXp59eUc0g%3Ds900-mo-c-c0xffffffff-rj-k-no
       width: 900
       height: 900
       colors:
@@ -73,13 +73,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/user/shainelee'
 title: Shaine Mata
-datePublished: '2018-09-14T15:51:00.494Z'
-dateModified: '2018-09-14T15:50:34.163Z'
-datePublishedOriginal: '2018-09-14T15:51:00.494Z'
+datePublished: '2018-09-14T15:58:19.595Z'
+dateModified: '2018-09-14T15:58:19.205Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-09-14-shaine-mata.md
+starred: false
+datePublishedOriginal: '2018-09-14T15:51:00.494Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
