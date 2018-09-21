@@ -34,8 +34,8 @@ app_links:
     app_name: Minds
 isBasedOnUrl: 'https://www.minds.com/shaine'
 title: shaine | Minds
-datePublished: '2018-09-14T15:58:19.597Z'
-dateModified: '2018-09-14T15:58:19.205Z'
+datePublished: '2018-09-21T15:58:34.721Z'
+dateModified: '2018-09-21T15:58:33.508Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-09-14-shaine-or-minds.md
@@ -45,4 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>shaine | Minds</h1><p>Subscribe to @shaine on Minds. Roving nerd. Grazing the interwebs. Facility Manager by day. Restless any other time. Oh, and a Freemason.</p><img src="https://www.minds.com/icon/883035441442332684/master/1535908055/1536350372/13825648" /></article>
+<article style=""><img src="https://www.minds.com/icon/883035441442332684/master/1535908055/1536350372/13825648" /><h1>shaine | Minds</h1><p>Subscribe to @shaine on Minds. Roving nerd. Grazing the interwebs. Facility Manager by day. Restless any other time. Oh, and a Freemason.</p></article>
